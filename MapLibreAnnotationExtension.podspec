@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
   s.module_name = "MapLibreAnnotationExtension"
-  s.dependency "MapLibre", "~> 5.11.0"
+  s.dependency "MapLibre", "~> 5.12.0"
 
   s.ios.deployment_target = '9.0'
 
